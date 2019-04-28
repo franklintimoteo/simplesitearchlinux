@@ -1,0 +1,31 @@
+header {
+    border-bottom: 5px solid  #08c;
+}
+
+body {
+    background: #f6f9fc;
+}
+
+#navbarcollapse a,
+#navbarcollapse a:link,
+#navbarcollapse a:active,
+#navbarcollapse a:visited {
+    color: #999;
+}
+
+#navbarcollapse a:hover {
+    color: white;
+}
+
+#createaccount {
+    font-size: 0.75rem;
+
+}
+
+#navpage ul li a {
+    font-size: 0.75rem;
+}
+
+#contentsbox {
+    background: #f6f9fc;
+}
